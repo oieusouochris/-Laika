@@ -1,2 +1,0 @@
-# -Laika
-✨ Laika
